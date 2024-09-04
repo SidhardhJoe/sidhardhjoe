@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SidhardhJoe](https://github.com/SidhardhJoe)
 
-- 💬 Ask me about **React Native, Java Script, Java**
+- 💬 Ask me about **React Native, JavaScript, Java, React**
 
 - 📫 How to reach me **sidhardhjoe@gmail.com**
 
